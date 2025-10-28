@@ -8,4 +8,4 @@ public class TypeCasting {
 		int result = (int) price;
 		System.out.printf("The value is %d%n",result);
     }
-}
+} 
