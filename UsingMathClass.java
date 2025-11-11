@@ -21,7 +21,9 @@ public class UsingMathClass {
         System.out.printf("The minimum number is: %d%n", Math.min(num1, num2));
         System.out.printf("The square root (rounded) is: %d%n", castedSquareRootNum);
         System.out.printf("The answer is: %f%n", Math.pow(num1, 2) * Math.pow(num2, 2));
+        System.out.println(Math.random());
 
         inputn.close();
     }
 }
+
