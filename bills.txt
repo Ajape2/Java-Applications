@@ -1,0 +1,5 @@
+Customer: Bola
+Type: REGULAR
+Units: 79
+Total Bill: ₦2370.0
+---------------------------
